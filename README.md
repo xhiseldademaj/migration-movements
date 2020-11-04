@@ -27,7 +27,7 @@ Through the initialisation process we describe how we set up the world at the be
 
 # From animation to science
 
-Our goal is to determine how migrants’ behavior changes following the reaction of the external environment. The initial point of this analysis is to ask ourselves how host countries react to the daily arrival of thousands of migrants. In the first experiment we try to simulate this external behavior in order to understand which could be the reactive behavior of migrants to the host-countries policies. We consider Italy in this experiment for a couple of main reasons: firstly because it recently adopted a kind of temporary border closure policy, when the interior minister at that time decided to close the Italian ports. Secondly, Italy is the nearest European country to north
+Our goal is to determine how migrants’ behavior changes following the reaction of the external environment. The initial point of this analysis is to investigate how host countries react to the daily arrival of thousands of migrants. In the first experiment we try to simulate this external behavior in order to understand which could be the reactive behavior of migrants to the host-countries policies. We consider Italy in this experiment since it is the nearest European country to north
 Africa, and its geographical position is crucial in the attempt to determine the dynamics of migration movements. In a second experiment we analyze the relation between the number of agents which remain in the Hotspot 1 located in Italy and the probability they arrive there. 
 
 
