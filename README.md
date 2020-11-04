@@ -11,4 +11,11 @@ In this work we study the migrants’ pathways from their home countries to fina
 # Entities and variables of interest
 
 
+# DESIGN CONCEPTS
+
+# DETAILS
+
+# FROM ANIMATION TO SCIENCE
+
+
 
