@@ -1,12 +1,12 @@
 # Why_Do_Populations_Move
 
-# GENERAL FRAMEWORK
+# General Framework
 
 From ancient times, human history has been marked by mass migration events, often triggered by economic difficulties and poverty, by armed conflict, or political and social instabilities. ”In the first decades of our millennium the combined effect of globalization and geopolitical issues has triggered notable migration trends across a turbulent global socioeconomic landscape” (Curry et al. 2019). But what are the main reasons of this mass-migration phenomenon? 
 In this work we examine some stylized facts represented by the migrant-routes which depart from north Africa with the aim of reaching final destination countries. During their journey migrants arrive in the hotspots of the European coasts. The hotspots are the centres of first reception of people arriving in Europe by land or by sea without a regular residence permit. ”The hotspot approach was introduced by the European Commission in the European Agenda on Migration in April 2015, at the height of the migration crisis, as a means of providing emergency assistance to frontline Member States that were faced with the arrival of disproportionate numbers of migrants” (European Parliament 2018). According to European Union Agency for Fundamental Rights, the states who play a crucial role in the first welcome policies are mainly Greece and Italy where indeed the hotspots are located. 
 In this work we study the migrants’ pathways from their home countries to final destination countries, as well as the conditions and activities that evolve during the migration process.
 
-# HOW THE MODEL WORKS?
+# How the model works
 
 # Entities and variables of interest
 
@@ -17,21 +17,21 @@ We also assume migrants to be rational agents who aim to maximize a determined o
 
 We rely now on the ODD protocol in order to describe the building process of our model.
 
-# DESIGN CONCEPTS
+# Design Concepts
 
 We investigate the concepts of distance and wealth. In this sense, we ”guide” our model to tell us how these functions may change when we change the parameters by which they are composed and the framework in which they are defined. The destination-patches represent the northern European countries, which are characterized by higher levels of GDP with respect to home countries. So moving to higher GDP regions is associated to the possibility of having better jobs, schools and health systems. In this sense the movement is justified by the will to achieve better life conditions. We examine the trend of the mean wealth and of the mean distance after running the Go procedure, and we wonder if the average distance traveled by agents can help us to explain variations in their average wealth. 
 
-# DETAILS
+# Details
 
 Through the initialisation process we describe how we set up the world at the beginning of the simulation, since the results of the model often depend on these initial conditions. We endow agents with a random color chosen from a set of three, which represents their ethnicity, with a size and an initial location. The values of environment variables are set taking into account the stylized facts. We divide the landscape into three main regions: the home, the hotspot and the destination patches. We assign a color to all of them and more specifically we endow the destination patches with the patches-owned-variables profit and failure.
 
-# FROM ANIMATION TO SCIENCE
+# From animation to science
 
 Our goal is to determine how migrants’ behavior changes following the reaction of the external environment. The initial point of this analysis is to ask ourselves how host countries react to the daily arrival of thousands of migrants. In the first experiment we try to simulate this external behavior in order to understand which could be the reactive behavior of migrants to the host-countries policies. We consider Italy in this experiment for a couple of main reasons: firstly because it recently adopted a kind of temporary border closure policy, when the interior minister at that time decided to close the Italian ports. Secondly, Italy is the nearest European country to north
 Africa, and its geographical position is crucial in the attempt to determine the dynamics of migration movements. In a second experiment we analyze the relation between the number of agents which remain in the Hotspot 1 located in Italy and the probability they arrive there. 
 
 
-# CONCLUSIONS AND POSSIBLE EXTENTIONS
+# Conclusions and further extensions
 
 This work tries to capture the dynamics behind the mass-migration movements that affect our times. It is important to stress how migration is a huge phenomenon and it is not easy to be elicited and understood. Since the dynamics of this phenomenon are varied, it is often difficult to identify universal features that affect all migrants. For this reason our model is quite limited and we are aware that it could be refined and improved in many ways. However the general conclusion that can be drawn from this analysis is that, if the migratory phenomenon is allowed to be governed by migrants’ self-selection mechanisms with the aim of maximizing their utilities, these mechanisms will lead to a a failure for our system. We can automatically deduce that specific policies are necessary. The intent could be to refine the objective utility function
 of migrants taking into account a social planner maximization problem. This is because our final purpose is to try do give a combined solution to this crisis, which concern humanity, and humanity only.
